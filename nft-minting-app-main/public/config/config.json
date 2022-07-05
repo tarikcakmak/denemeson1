@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x865251C4867E84F7BA445A47A210c2c86D3a0Bbc",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x865251c4867e84f7ba445a47a210c2c86d3a0bbc",
+  "NETWORK": {
+    "NAME": "Rinkeby Test ağı",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "DegenBear",
+  "SYMBOL": "DBNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/degen-bear-v2",
+  "SHOW_BACKGROUND": true
+}
